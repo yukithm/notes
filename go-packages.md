@@ -8,6 +8,8 @@
 - https://awesome-go.com
 - https://github.com/avelino/awesome-go
     - ここに載ってるからといって安心はできない。微妙なのもあるので吟味は必要。
+- https://golanglibs.com/
+    - GrowingとかPopularとか見れておもしろい
 - https://github.com/kaxap/arl/blob/master/README-Go.md
 
 ## CLI
