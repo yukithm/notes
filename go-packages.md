@@ -57,6 +57,16 @@ CLI用のライブラリやオプションパーサ
 - https://github.com/mattn/go-tty
 - https://github.com/kr/pty
 
+## JSON
+
+`encoding/json`以外の選択肢。
+
+- https://github.com/tidwall/gjson
+- https://github.com/buger/jsonparser
+- https://github.com/mailru/easyjson
+- https://github.com/pquerna/ffjson
+- https://github.com/json-iterator/go
+
 ## YAML
 
 - https://github.com/go-yaml/yaml
