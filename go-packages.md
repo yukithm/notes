@@ -287,6 +287,11 @@ CLI用のライブラリやオプションパーサ
     - `log.Print("[DEBUG] Debugging")`みたいにしてログレベルを制御する
 - https://github.com/cybozu-go/log
 
+## テスト
+
+- https://github.com/google/go-cmp
+    - 値の比較をしていい感じにdiffが得られる
+
 ## 画像
 
 - https://github.com/disintegration/imaging
