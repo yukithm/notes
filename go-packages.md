@@ -297,6 +297,13 @@ CLI用のライブラリやオプションパーサ
 - https://github.com/disintegration/imaging
     - 画像処理
 
+## Excel
+
+- https://github.com/360EntSecGroup-Skylar/excelize
+- https://github.com/tealeg/xlsx
+- https://github.com/plandem/xlsx
+- https://github.com/loadoff/excl
+
 ## gRPC
 
 - https://github.com/grpc/grpc-go
