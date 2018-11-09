@@ -300,9 +300,15 @@ CLI用のライブラリやオプションパーサ
 ## Excel
 
 - https://github.com/360EntSecGroup-Skylar/excelize
+    - よくできてそう（未評価）
 - https://github.com/tealeg/xlsx
+    - よくできてそう。有名。
+    - 既存のフォーマットやオブジェクトが壊れるかも？
+    - 重い。メモリ食う。
 - https://github.com/plandem/xlsx
+    - 既存のデータを壊さないように心がけている？
 - https://github.com/loadoff/excl
+    - 既存のデータを壊さないように心がけている
 
 ## gRPC
 
