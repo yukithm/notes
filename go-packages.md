@@ -331,6 +331,11 @@ CLI用のライブラリやオプションパーサ
 - [https://github.com/AllenDang/w32](https://github.com/AllenDang/w32)
     - Win32 API
 
+## fsnotify, watch
+
+- https://github.com/fsnotify/fsnotify
+- https://github.com/rjeczalik/notify
+
 ## タスクランナー
 
 - https://github.com/go-task/task
