@@ -296,6 +296,9 @@ CLI用のライブラリやオプションパーサ
 
 - https://github.com/disintegration/imaging
     - 画像処理
+- https://github.com/nfnt/resize
+    - リサイズ
+    - メンテされてないっぽい
 - https://github.com/muesli/smartcrop
     - 画像の重要な部分を抜き出す
 
