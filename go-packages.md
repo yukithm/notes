@@ -329,6 +329,8 @@ CLI用のライブラリやオプションパーサ
 ## Desktop Notification
 
 - https://github.com/gen2brain/beeep
+- https://github.com/deckarep/gosx-notifier macOS
+- https://github.com/go-toast/toast Windows 10
 
 ## Windows
 
