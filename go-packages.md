@@ -326,6 +326,10 @@ CLI用のライブラリやオプションパーサ
 - https://github.com/pquerna/otp
     - TOTPライブラリ
 
+## Desktop Notification
+
+- https://github.com/gen2brain/beeep
+
 ## Windows
 
 - [https://github.com/AllenDang/w32](https://github.com/AllenDang/w32)
