@@ -315,6 +315,13 @@ CLI用のライブラリやオプションパーサ
 - https://github.com/loadoff/excl
     - 既存のデータを壊さないように心がけている
 
+## 形態素解析
+
+- https://github.com/shogo82148/go-mecab
+    - libmecabのラッパー
+- https://github.com/ikawaha/kagome
+    - Pure Goな実装
+
 ## gRPC
 
 - https://github.com/grpc/grpc-go
