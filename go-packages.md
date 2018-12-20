@@ -354,3 +354,8 @@ CLI用のライブラリやオプションパーサ
 - https://github.com/go-task/task
 - https://github.com/tj/robo
 - https://magefile.org/
+
+## 実装支援ライブラリ
+
+- https://github.com/wesovilabs/koazee
+    - コレクションのストリーム
