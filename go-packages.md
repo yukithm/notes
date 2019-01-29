@@ -302,6 +302,14 @@ CLI用のライブラリやオプションパーサ
 - https://github.com/muesli/smartcrop
     - 画像の重要な部分を抜き出す
 
+## PDF
+
+- https://github.com/jung-kurt/gofpdf
+    - 良く出来てるらしい
+    - が、まだUTF-8がサポートされていないらしい
+- https://github.com/signintech/gopdf
+    - 日本語サポートしてる
+
 ## Excel
 
 - https://github.com/360EntSecGroup-Skylar/excelize
