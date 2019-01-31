@@ -257,6 +257,9 @@ CLI用のライブラリやオプションパーサ
 
 - https://github.com/jmoiron/sqlx
     - 標準のdatabase/sqlを便利にした感じのライブラリ
+    - https://github.com/Code-Hex/sqlx-transactionmanager
+        - トランザクション処理を楽にするライブラリ
+        - sqlxのラッパーになっている
 - https://github.com/go-gorp/gorp
     - ORMっぽいけどORMじゃない
 - ORM
@@ -268,6 +271,9 @@ CLI用のライブラリやオプションパーサ
     - https://github.com/dropbox/godropbox/tree/master/database/sqlbuilder
     - https://github.com/samonzeweb/godb
     - https://github.com/doug-martin/goqu
+- Debug
+    - https://github.com/gchaincl/sqlhooks
+        - database/sqlの処理前後にフックを追加してロギングとかできるようにするライブラリ
 - Driver
     - https://github.com/lib/pq
     - https://github.com/mattn/go-sqlite3
