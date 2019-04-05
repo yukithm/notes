@@ -25,3 +25,7 @@ go build -a -tags netgo -installsuffix netgo --ldflags '-extldflags "-static"'
 ```
 
 ※CentOSの場合、`glibc-static`がインストールされていないと失敗する。
+
+## パッケージ別サイズ
+
+https://github.com/jondot/goweight
