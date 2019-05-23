@@ -49,6 +49,7 @@ CLI用のライブラリやオプションパーサ
     - なんかすごそう
     - https://github.com/marcusolsson/tui-go
     - https://github.com/rivo/tview
+    - https://github.com/gcla/gowid
 - https://github.com/VladimirMarkelov/clui
 - https://github.com/cznic/wm
 
