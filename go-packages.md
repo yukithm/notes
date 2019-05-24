@@ -193,6 +193,9 @@ CLI用のライブラリやオプションパーサ
 - https://github.com/graphql-go/graphql
 - https://github.com/graph-gophers/graphql-go
 - https://github.com/99designs/gqlgen
+    - スキーマからコード生成
+- https://github.com/samsarahq/thunder
+    - コードからスキーマ生成もできる
 
 ## 正規表現
 
