@@ -186,6 +186,14 @@ CLI用のライブラリやオプションパーサ
 - https://github.com/go-playground/validator
     - WAFで採用されてたりするけど、いまいちピンとこない
 
+## GraphQL
+
+[GoにおけるGraphQLライブラリ大横断 | HiCustomer Tech Blog](https://tech.hicustomer.jp/posts/go-graphql/)
+
+- https://github.com/graphql-go/graphql
+- https://github.com/graph-gophers/graphql-go
+- https://github.com/99designs/gqlgen
+
 ## 正規表現
 
 - https://github.com/dlclark/regexp2
