@@ -354,6 +354,11 @@ CLI用のライブラリやオプションパーサ
 - https://github.com/lileio/lile
     - gRPCを使ったアプリケーションのジェネレータ
 
+## Plugins
+
+- https://github.com/hashicorp/go-plugin
+    - gRPCを使ったプラグインシステム
+
 ## セキュリティ
 
 - https://github.com/pquerna/otp
