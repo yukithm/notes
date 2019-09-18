@@ -155,6 +155,10 @@ CLI用のライブラリやオプションパーサ
 - https://github.com/elazarl/goproxy
     - http proxyライブラリ
 
+## WebSocket
+
+- https://github.com/gorilla/websocket
+
 ## テンプレートエンジン
 
 - https://github.com/eknkc/amber
