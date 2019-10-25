@@ -345,6 +345,10 @@ CLI用のライブラリやオプションパーサ
 - https://github.com/loadoff/excl
     - 既存のデータを壊さないように心がけている
 
+## Syntax highlight
+
+- https://github.com/alecthomas/chroma
+
 ## 形態素解析
 
 - https://github.com/shogo82148/go-mecab
