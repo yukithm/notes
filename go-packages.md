@@ -154,6 +154,8 @@ CLI用のライブラリやオプションパーサ
 
 - https://github.com/elazarl/goproxy
     - http proxyライブラリ
+- https://github.com/lucperkins/rek
+    - HTTPクライアント
 
 ## WebSocket
 
