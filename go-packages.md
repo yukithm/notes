@@ -124,6 +124,8 @@ CLI用のライブラリやオプションパーサ
     - バリデータ
 - https://agouti.org/
     - WebDriver
+- https://github.com/chromedp/chromedp
+    - puppeteerのGo版みたいなやつ
 
 ## WAF
 
