@@ -296,6 +296,8 @@ CLI用のライブラリやオプションパーサ
         - database/sqlの処理前後にフックを追加してロギングとかできるようにするライブラリ
 - Driver
     - https://github.com/lib/pq
+        - 今はメンテナンスのみ。jackc/pgxを推奨している。
+    - https://github.com/jackc/pgx
     - https://github.com/mattn/go-sqlite3
 
 ## ロガー
