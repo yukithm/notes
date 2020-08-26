@@ -126,6 +126,8 @@ CLI用のライブラリやオプションパーサ
     - WebDriver
 - https://github.com/chromedp/chromedp
     - puppeteerのGo版みたいなやつ
+- https://github.com/go-rod/rod
+    - DevTools Protocolを使ったスクレイピングライブラリ
 
 ## WAF
 
